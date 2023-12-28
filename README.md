@@ -1,2 +1,2 @@
-# Power BI + SQL + Tableau + Excel 
+# Power BI 
  
